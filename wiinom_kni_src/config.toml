@@ -1,0 +1,37 @@
+baseURL = ""
+languageCode = "pl-pl"
+title = "Koło Naukowe Informatyków | WIiNoM"
+theme = "timer-hugo"
+
+# Site Params
+
+[params]
+    #home = "Home"
+    logo = "images/logo.png"
+    dateFormat = "6 January 2006"
+
+    # Banner Section
+    [params.banner]
+        enable  = true
+        bgImage = "images/slider.jpg"
+        heading = "Koło Naukowe Informatyków"
+        description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        [[params.banner.flipText]]
+            title   = "TWORZYMY OPROGRAMOWANIE"
+        [[params.banner.flipText]]
+            title   = "PROJEKTUJEMY GRY"
+        [[params.banner.flipText]]
+            title   = "PROWADZIMY WARSZTATY"
+
+    # Homepage About Section
+    [params.about]
+        enable  = true
+        title   = "O nas"
+        content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam enim id magna mattis porttitor. Etiam dignissim tristique erat non bibendum. Donec pellentesque diam quis mauris fermentum iaculis. Maecenas et faucibus nulla. Proin vehicula ligula id gravida tempor. Aliquam eget urna tincidunt neque posuere condimentum vel et enim. Nam purus sapien, posuere nec vestibulum bibendum, pellentesque at leo."
+        image   = "images/about/about.jpg"
+
+    # Portfolio Section On Homepage
+    [params.portfolio]
+        enable  = true
+        title   = "Ostatnie projekty"
+        subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
