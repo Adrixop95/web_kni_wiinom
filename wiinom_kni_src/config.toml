@@ -15,7 +15,7 @@ theme = "timer-hugo"
         enable  = true
         bgImage = "images/slider.jpg"
         heading = "Koło Naukowe Informatyków"
-        description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        description = "Dołącz do nas już dziś!"
         [[params.banner.flipText]]
             title   = "TWORZYMY OPROGRAMOWANIE"
         [[params.banner.flipText]]
@@ -27,7 +27,8 @@ theme = "timer-hugo"
     [params.about]
         enable  = true
         title   = "O nas"
-        content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam enim id magna mattis porttitor. Etiam dignissim tristique erat non bibendum. Donec pellentesque diam quis mauris fermentum iaculis. Maecenas et faucibus nulla. Proin vehicula ligula id gravida tempor. Aliquam eget urna tincidunt neque posuere condimentum vel et enim. Nam purus sapien, posuere nec vestibulum bibendum, pellentesque at leo."
+        #content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam enim id magna mattis porttitor. Etiam dignissim tristique erat non bibendum. Donec pellentesque diam quis mauris fermentum iaculis. Maecenas et faucibus nulla. Proin vehicula ligula id gravida tempor. Aliquam eget urna tincidunt neque posuere condimentum vel et enim. Nam purus sapien, posuere nec vestibulum bibendum, pellentesque at leo."
+        content = "Koło Naukowe Informatyków: spotykamy się, aby dzilić pasje i wymieniać się doświadczeniem. Staramy się sprostać Waszym oczekiwaniom oraz pomóc Wam w przygotowaniu do dalszej kariery. W ramach koła organizowane będą cykle szkolen prowadzone zarówno przez studentów jak i osoby zewnętrzne. Jesteśmy otwartym kołem, jeżeli jesteś zainteresowany dołączeniem do naszego grona, serdecznie zapraszamy!"
         image   = "images/about/about.jpg"
 
     # Portfolio Section On Homepage
