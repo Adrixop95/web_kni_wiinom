@@ -4,7 +4,6 @@ title = "Koło Naukowe Informatyków | WIiNoM"
 theme = "timer-hugo"
 
 # Site Params
-
 [params]
     #home = "Home"
     logo = "images/logo.png"
@@ -27,12 +26,19 @@ theme = "timer-hugo"
     [params.about]
         enable  = true
         title   = "O nas"
-        #content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam enim id magna mattis porttitor. Etiam dignissim tristique erat non bibendum. Donec pellentesque diam quis mauris fermentum iaculis. Maecenas et faucibus nulla. Proin vehicula ligula id gravida tempor. Aliquam eget urna tincidunt neque posuere condimentum vel et enim. Nam purus sapien, posuere nec vestibulum bibendum, pellentesque at leo."
-        content = "Koło Naukowe Informatyków: spotykamy się, aby dzilić pasje i wymieniać się doświadczeniem. Staramy się sprostać Waszym oczekiwaniom oraz pomóc Wam w przygotowaniu do dalszej kariery. W ramach koła organizowane będą cykle szkolen prowadzone zarówno przez studentów jak i osoby zewnętrzne. Jesteśmy otwartym kołem, jeżeli jesteś zainteresowany dołączeniem do naszego grona, serdecznie zapraszamy!"
+        content = "Koło Naukowe Informatyków: spotykamy się, aby dzielić pasje i wymieniać się doświadczeniem. Staramy się sprostać Waszym oczekiwaniom oraz pomóc Wam w przygotowaniu do dalszej kariery. W ramach koła organizowane będą cykle szkoleń prowadzone zarówno przez studentów, jak i osoby zewnętrzne. Jesteśmy otwartym kołem, jeżeli jesteś zainteresowany dołączeniem do naszego grona, serdecznie zapraszamy!"        
         image   = "images/about/about.jpg"
 
     # Portfolio Section On Homepage
     [params.portfolio]
         enable  = true
         title   = "Ostatnie projekty"
-        subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+        subtitle= "Oto kilka naszych najnowszych prac. Na bieżąco staramy się aktualizować listę naszych projektów."
+
+    # Contact Section about Facebook Group 
+    [params.cta]
+        enable  = true
+        title   = "DOŁĄCZ DO NAS JUŻ DZIŚ !"
+        content = "Jeśli chciałbyś do nas dołączyć, w opisie grupy Facebookowej znajdziesz wszystkie potrzebne informacje. Rekrutację prowadzimy cały rok!"
+        btnText = "Grupa Koła Naukowego Informatyków"
+        btnURL  = "https://www.facebook.com/groups/KoloNaukoweInformatykow/"

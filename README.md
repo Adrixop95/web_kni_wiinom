@@ -9,8 +9,8 @@ Strona internetowa oparta została o framework Hugo.
 ## Technologie oraz uznania twórczości
 - [Framework Hugo](https://gohugo.io/)
 - [Bazowana na Theme Timer](https://github.com/themefisher/timer-hugo)
-- [Font Bebas Neue](https://www.dafont.com/bebas-neue.font)
 - [Fotografie](http://unsplash.com)
+- [Twórca logotypu: Adam Greloch](https://www.instagram.com/adamgreloch/)
 
 Made with 😺 and 💝,  
 by Adrian Rupala
