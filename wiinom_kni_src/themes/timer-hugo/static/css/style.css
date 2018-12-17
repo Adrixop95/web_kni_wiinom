@@ -691,6 +691,7 @@ article {
 }
 
 .blog-content .btn-details {
+  content: "New text"; 
   color: #02bdd5;
   padding: 0;
   background: #02bdd5;
